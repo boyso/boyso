@@ -1,8 +1,5 @@
 ### Hi I am BOYSO 👋
 
-<!--
-**boyso/boyso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 12年人机交互界面设计经验，服务过大数据、AIOT物联网、B2B2C、服装供应链、OTA在线旅游等领域的中大型企业。
 拥有过三次创业经验，有失有得，为了拥有更丰富的商业运作经验及内心的平和。
 崇尚 「Design is power」和「Less is more」。
@@ -23,4 +20,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

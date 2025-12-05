@@ -16,6 +16,8 @@
 技术栈
 Nextjs
 
+2021-2023，在产研内部，推行设计协同工作流，让产品经理与UI设计师All in one 设计工具，完成Saas级别设计系统搭建，助力设计师的标准化能力，设计系统搭建实践。
+
 2024年，使用GPT尝试写网站，肝了一个AI应用平台，All in AI Tools！
 https://Allinai.tools
 

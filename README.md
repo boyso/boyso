@@ -13,6 +13,11 @@
 同时喜欢折腾，一直有 Coding 的爱好，前端栈为 HTML+CSS+JS+ VUE，后端用 PHP。<br />
 工作之余，自己就会策划产品并独立开发上线。现有独立项目：动森小朋友、神奇便利店、洗白白 (微信小程序)已上线。
 
+技术栈
+Nextjs
+
 2024年，使用GPT尝试写网站，肝了一个AI应用平台，All in AI Tools！
 https://Allinai.tools
+
+2025年，设计转代码 [D2C Agent](https://mastergo.com/community/plugin/170893243255106) 产品开发（已支持MasterGo设计工具平台，即将支持Figma) 
 
